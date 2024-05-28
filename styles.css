@@ -151,4 +151,8 @@ body{
 
     display: none;
   }
+
+  .footer{
+    padding: 1em 0;
+  }
 }
